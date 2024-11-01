@@ -2,3 +2,8 @@ body {
     color: wheat; 
     background: darkslategray; 
 }
+
+
+header{
+    border: solid 2px rgb(245, 222, 179);
+}
