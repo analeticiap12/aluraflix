@@ -1,0 +1,26 @@
+body {
+    color: wheat; 
+    background: darkslategray; 
+    margin: 0px;
+}
+
+
+header{
+    border: solid 2px rgb(245, 222, 179);
+    padding: 20px; 
+    font-size: 25px;
+    color: rgb(245, 222, 179);
+}
+
+section{
+    background: rgb(128, 128, 128);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex; 
+    justify-content: center;
+}
+
+div{
+    margin-right: 20px;
+
+}
